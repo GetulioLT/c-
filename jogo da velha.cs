@@ -99,7 +99,7 @@ namespace Avaliação
             e = 0;
             f = 0;
 
-            for (int i = 0; i < 4; i++)
+            for (int i = 0; i < 5; i++)
             {
 
                 //jogador 1
@@ -281,6 +281,16 @@ namespace Avaliação
 
                 /*===========================================*/
 
+                //velha
+
+                if (i == 5)
+                {
+                    Console.WriteLine("Jogo deu velha");
+
+                    break;
+                }
+
+                //
 
                 //jogador 2
 

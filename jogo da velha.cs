@@ -1,13 +1,10 @@
-/*
-    Criando um tabuleiro de Jogo da Velha
-    Crie um tabuleiro de jogo da velha, usando uma matrizes de caracteres (char) 3×3, onde o usuário pede 
-    o número da linha (1 até 3) e o da coluna (1 até 3). A cada vez que o usuário entrar com esses dados, 
-    colocar um ‘X’ ou ‘O’ no local selecionado
- */
 using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Avaliação
+namespace ConsoleApp1
 {
     internal class Program
     {
@@ -18,14 +15,14 @@ namespace Avaliação
             Console.WriteLine("É simples jogaremos usando posições que vão do 0 até 2");
             Console.WriteLine("Olhe um exemplo:");
             Console.WriteLine("[0,0]  [0,1]  [0,2]");
-            Console.WriteLine("[1,0]  [1,1]  [2,2]");
+            Console.WriteLine("[1,0]  [1,1]  [1,2]");
             Console.WriteLine("[2,0]  [2,1]  [2,2]");
 
             Console.WriteLine();
 
             /*================ Váriaveis ================*/
 
-            char[,] tabuleiro = new char[3,3];
+            char[,] tabuleiro = new char[3, 3];
 
             tabuleiro[0, 0] = '-';
             tabuleiro[1, 0] = '-';
@@ -283,7 +280,7 @@ namespace Avaliação
 
                 //velha
 
-                if (i == 5)
+                if (i == 4)
                 {
                     Console.WriteLine("Jogo deu velha");
 
@@ -365,7 +362,7 @@ namespace Avaliação
 
                     tabuleiro[2, 1] = 'O';
                 }
-                else if(k == 2 && l == 2 && c31 == false)
+                else if (k == 2 && l == 2 && c31 == false)
                 {
                     c32 = true;
 
@@ -409,6 +406,8 @@ namespace Avaliação
                 }
                 e = 0;
                 f = 0;
+
+
 
                 /*===========================================*/
 
@@ -471,9 +470,15 @@ namespace Avaliação
 
                 /*===========================================*/
 
+                Console.WriteLine("[0,0]  [0,1]  [0,2]");
+                Console.WriteLine("[1,0]  [1,1]  [1,2]");
+                Console.WriteLine("[2,0]  [2,1]  [2,2]");
+                Console.WriteLine();
+
             }
 
             Console.ReadLine();
+
         }
     }
 }

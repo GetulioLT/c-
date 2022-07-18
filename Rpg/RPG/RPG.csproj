@@ -43,6 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EspadaDupla.cs" />
+    <Compile Include="EspadaEscudo.cs" />
+    <Compile Include="EspadaUnica.cs" />
+    <Compile Include="Historia.cs" />
+    <Compile Include="Inimigos.cs" />
+    <Compile Include="Personagens.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

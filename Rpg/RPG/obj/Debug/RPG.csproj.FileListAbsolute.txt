@@ -6,3 +6,7 @@ C:\Users\Ronaldo\Desktop\c-\Rpg\RPG\bin\Debug\RPG.exe
 C:\Users\Ronaldo\Desktop\c-\Rpg\RPG\bin\Debug\RPG.pdb
 C:\Users\Ronaldo\Desktop\c-\Rpg\RPG\obj\Debug\RPG.exe
 C:\Users\Ronaldo\Desktop\c-\Rpg\RPG\obj\Debug\RPG.pdb
+C:\Users\Ronaldo\Desktop\c-\Rpg\RPG\bin\Debug\RPG.exe.manifest
+C:\Users\Ronaldo\Desktop\c-\Rpg\RPG\bin\Debug\RPG.application
+C:\Users\Ronaldo\Desktop\c-\Rpg\RPG\obj\Debug\RPG.exe.manifest
+C:\Users\Ronaldo\Desktop\c-\Rpg\RPG\obj\Debug\RPG.application

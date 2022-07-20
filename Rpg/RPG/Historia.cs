@@ -13,7 +13,7 @@ namespace RPG
 
         bool espadaUni, espadaDup, espadaEscudo;
         string nome, confirma;
-        int escolha, delay;
+        int escolha;
 
         public Historia()
         {

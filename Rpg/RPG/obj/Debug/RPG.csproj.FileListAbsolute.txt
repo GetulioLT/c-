@@ -10,3 +10,15 @@ C:\Users\Ronaldo\Desktop\c-\Rpg\RPG\bin\Debug\RPG.exe.manifest
 C:\Users\Ronaldo\Desktop\c-\Rpg\RPG\bin\Debug\RPG.application
 C:\Users\Ronaldo\Desktop\c-\Rpg\RPG\obj\Debug\RPG.exe.manifest
 C:\Users\Ronaldo\Desktop\c-\Rpg\RPG\obj\Debug\RPG.application
+C:\Users\User\Desktop\c-\Rpg\RPG\bin\Debug\RPG.exe.config
+C:\Users\User\Desktop\c-\Rpg\RPG\bin\Debug\RPG.exe.manifest
+C:\Users\User\Desktop\c-\Rpg\RPG\bin\Debug\RPG.application
+C:\Users\User\Desktop\c-\Rpg\RPG\bin\Debug\RPG.exe
+C:\Users\User\Desktop\c-\Rpg\RPG\bin\Debug\RPG.pdb
+C:\Users\User\Desktop\c-\Rpg\RPG\obj\Debug\RPG.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c-\Rpg\RPG\obj\Debug\RPG.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\c-\Rpg\RPG\obj\Debug\RPG.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c-\Rpg\RPG\obj\Debug\RPG.exe.manifest
+C:\Users\User\Desktop\c-\Rpg\RPG\obj\Debug\RPG.application
+C:\Users\User\Desktop\c-\Rpg\RPG\obj\Debug\RPG.exe
+C:\Users\User\Desktop\c-\Rpg\RPG\obj\Debug\RPG.pdb

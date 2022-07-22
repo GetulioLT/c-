@@ -20,7 +20,7 @@ namespace RPG
 
             for (int i = 0; i < 10; i++)
             {
-                Thread.Sleep(delay = 600);
+                Thread.Sleep(delay = 500);
                 Console.Write('.');
 
             }
@@ -28,7 +28,6 @@ namespace RPG
             Historia historia = new Historia();
 
             Console.ReadLine();
-
 
         }
     }
